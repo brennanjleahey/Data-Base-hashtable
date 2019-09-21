@@ -1,6 +1,7 @@
-[leahe001@empress forHW8]$ g++ *.h
-[leahe001@empress forHW8]$ g++ *.cpp
-[leahe001@empress forHW8]$ ./a.out
+$ g++ *.h
+$ g++ *.cpp
+$ ./a.out
+
 Welcome to DataBase Storage. How many accounts would you like to add (>0,<37)
 5
 Enter Username:
